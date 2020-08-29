@@ -5,7 +5,7 @@
 Currently missing!
 
 ```
-<path-to-jdk>\java --module-path <lib> --add-modules javafx.controls,javafx.fxml —jar <java-application-jar>
+<path-to-jdk>\javaw.exe --module-path <lib> --add-modules javafx.controls,javafx.fxml —jar <java-application-jar>
 ```
 
 ## Install
